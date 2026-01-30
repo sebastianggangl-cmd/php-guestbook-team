@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Visual Studio (if used)
+.vs/
+*.suo
+*.user
+
+# Logs / temp
+*.log
+*~
+
+# Project runtime data / secrets
+# ???
