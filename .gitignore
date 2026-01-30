@@ -15,3 +15,6 @@ Thumbs.db
 
 # Project runtime data / secrets
 # ???
+config.php
+data/
+messages.php
