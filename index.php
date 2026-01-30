@@ -61,7 +61,7 @@ $messages = []; // TODO: load_messages()
 
   <hr>
 
-  <h2>Leo</h2>
+  <h2>Message</h2>
 
   <?php if (!$messages): ?>
     <p>No messages yet.</p>
